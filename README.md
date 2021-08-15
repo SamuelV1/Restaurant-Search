@@ -46,7 +46,9 @@ $ npm Start
 *1* caso você queira o projeto pra você basta gerar uma ApiKey (assim como e ensinado no topico de como instalar o projeto)
 *2* ir a (src/components/map/)
 *3* dentro da função GoogleApiWrapper basta mudar apiKey para sua própria e pronto.
-  
+#### OU 
+    va na pasta raiz e crie um .env com as seguintes informaçoes REACT_APP_GOOGLE_API_KEY=Sua_api_key
+    pronto :)
  
 
 
